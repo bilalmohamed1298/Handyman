@@ -5,7 +5,7 @@
 ## 🌐 Live Demo
 
 Check out the live demo of the project here:  
-[Handyman Live Demo](https://etfaragnow.vercel.app/)
+[Handyman Live Demo](https://handyman-nl.vercel.app/)
 
 
 ![Screenshot](images/screenshots/Home1.png)
